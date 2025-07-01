@@ -5,7 +5,7 @@ class Solution:
         while slow!=fast:
             slow=nums[slow]
             fast=nums[nums[fast]]
-        finder=0
+        finder=0           
         while slow!=finder:
             finder=nums[finder]
             slow=nums[slow]
