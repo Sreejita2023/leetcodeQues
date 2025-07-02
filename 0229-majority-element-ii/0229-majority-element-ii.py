@@ -5,15 +5,15 @@ class Solution:
         candidate1=0
         candidate2=0
         for num in nums:
-          if count1==0 and candidate1!=num:
+          if count1==0 and candidate2!=num:
              count1+=1
              candidate1=num
-          elif count2==0 and candidate2!=num:
+          elif count2==0 and candidate1!=num:
              count2+=1
              candidate2=num
-          elif candidate1!=num:
+          elif candidate1==num:
               count1+=1
-          elif candidate2!=num:
+          elif candidate2==num:
               count2+=1
           else:
             count2-=1
@@ -24,7 +24,7 @@ class Solution:
         for num in nums:
             if candidate1 == num:
                 count1+=1
-            if candidate2 == num:
+            elif candidate2 == num:
                 count2+=1
         result=[]
         if(count1>threshold):
