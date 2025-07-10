@@ -92,12 +92,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Sreejita2023/leetcodeQues/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Sreejita2023/leetcodeQues/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Ordered Set
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+## Shortest Path
+|  |
+| ------- |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Sreejita2023/leetcodeQues/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 <!---LeetCode Topics End-->
