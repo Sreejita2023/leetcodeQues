@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sreejita2023/leetcodeQues/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Sreejita2023/leetcodeQues/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sreejita2023/leetcodeQues/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Sreejita2023/leetcodeQues/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Sreejita2023/leetcodeQues/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/Sreejita2023/leetcodeQues/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Sreejita2023/leetcodeQues/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Heap (Priority Queue)
 |  |
