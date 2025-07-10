@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +76,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sreejita2023/leetcodeQues/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
