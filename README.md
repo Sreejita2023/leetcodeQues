@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sreejita2023/leetcodeQues/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreejita2023/leetcodeQues/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sreejita2023/leetcodeQues/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sreejita2023/leetcodeQues/tree/master/0062-unique-paths) |
 | [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
+## Backtracking
+|  |
+| ------- |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
+## Number Theory
+|  |
+| ------- |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
+## Bitmask
+|  |
+| ------- |
+| [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
