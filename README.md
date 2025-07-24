@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sreejita2023/leetcodeQues/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sreejita2023/leetcodeQues/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sreejita2023/leetcodeQues/tree/master/0062-unique-paths) |
+| [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
 ## Matrix
 |  |
 | ------- |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Sreejita2023/leetcodeQues/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
+## String
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
+## Simulation
+|  |
+| ------- |
+| [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
 <!---LeetCode Topics End-->
