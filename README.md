@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sreejita2023/leetcodeQues/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sreejita2023/leetcodeQues/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sreejita2023/leetcodeQues/tree/master/1016-subarray-sums-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sreejita2023/leetcodeQues/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
