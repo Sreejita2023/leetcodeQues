@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreejita2023/leetcodeQues/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreejita2023/leetcodeQues/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1829-maximum-units-on-a-truck](https://github.com/Sreejita2023/leetcodeQues/tree/master/1829-maximum-units-on-a-truck) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sreejita2023/leetcodeQues/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
