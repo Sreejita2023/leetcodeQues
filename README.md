@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sreejita2023/leetcodeQues/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Sreejita2023/leetcodeQues/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Sreejita2023/leetcodeQues/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Sreejita2023/leetcodeQues/tree/master/0074-search-a-2d-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sreejita2023/leetcodeQues/tree/master/0039-combination-sum) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 ## Number Theory
 |  |
