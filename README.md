@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sreejita2023/leetcodeQues/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sreejita2023/leetcodeQues/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sreejita2023/leetcodeQues/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1829-maximum-units-on-a-truck](https://github.com/Sreejita2023/leetcodeQues/tree/master/1829-maximum-units-on-a-truck) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 | [3863-power-grid-maintenance](https://github.com/Sreejita2023/leetcodeQues/tree/master/3863-power-grid-maintenance) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sreejita2023/leetcodeQues/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreejita2023/leetcodeQues/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sreejita2023/leetcodeQues/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 ## Math
 |  |
