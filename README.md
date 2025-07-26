@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sreejita2023/leetcodeQues/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sreejita2023/leetcodeQues/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreejita2023/leetcodeQues/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sreejita2023/leetcodeQues/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sreejita2023/leetcodeQues/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sreejita2023/leetcodeQues/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sreejita2023/leetcodeQues/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sreejita2023/leetcodeQues/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sreejita2023/leetcodeQues/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/Sreejita2023/leetcodeQues/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Bit Manipulation
