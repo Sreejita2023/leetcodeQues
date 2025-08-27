@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/0287-find-the-duplicate-number) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Sreejita2023/leetcodeQues/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
