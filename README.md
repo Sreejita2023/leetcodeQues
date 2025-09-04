@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sreejita2023/leetcodeQues/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sreejita2023/leetcodeQues/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreejita2023/leetcodeQues/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Sreejita2023/leetcodeQues/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sreejita2023/leetcodeQues/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sreejita2023/leetcodeQues/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sreejita2023/leetcodeQues/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Sreejita2023/leetcodeQues/tree/master/0139-word-break) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Sreejita2023/leetcodeQues/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1906-maximize-score-after-n-operations](https://github.com/Sreejita2023/leetcodeQues/tree/master/1906-maximize-score-after-n-operations) |
 ## Math
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejita2023/leetcodeQues/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Sreejita2023/leetcodeQues/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Sreejita2023/leetcodeQues/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sreejita2023/leetcodeQues/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sreejita2023/leetcodeQues/tree/master/0229-majority-element-ii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sreejita2023/leetcodeQues/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Sreejita2023/leetcodeQues/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Sreejita2023/leetcodeQues/tree/master/0692-top-k-frequent-words) |
 | [1119-robot-bounded-in-circle](https://github.com/Sreejita2023/leetcodeQues/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
@@ -188,9 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sreejita2023/leetcodeQues/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Sreejita2023/leetcodeQues/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Sreejita2023/leetcodeQues/tree/master/0692-top-k-frequent-words) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sreejita2023/leetcodeQues/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
